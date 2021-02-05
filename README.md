@@ -7,7 +7,8 @@ This Project enhances the facial properties of Image such as change the hair col
  <img src="https://github.com/sauravakolia/VirtualMakeup/blob/main/hair.png" width="500" >
  </p>
 
-# Motivation
+<a href="https://github.com/sauravakolia/VirtualMakeup/blob/main/Makeup.ipynb">Notebook</a>
+ # Motivation
 The project automate the process of makeup thus, saves the time and extra expenses on the trial of different makeup products. This project can be quite useful in the present situation of lockdown.
 
 # Methodology
