@@ -10,3 +10,8 @@ For this project facial segmentation is done using Bisenet (Bilateral Segmentati
 The Bisenet architecture proved to be  a right balance between the speed and segmentation performance as compared to other Segmentation architectures.</br>
 
 <img src="https://github.com/sauravakolia/VirtualMakeup/blob/main/bisenet.png">
+
+# Dataset
+<a src="https://github.com/switchablenorms/CelebAMask-HQ">CelebAMask-HQ</a> dataset is used for this project.
+## CelebAMask-HQ
+CelebAMask-HQ is a large-scale face image dataset that has 30,000 high-resolution face images selected from the CelebA dataset by following CelebA-HQ. Each image has segmentation mask of facial attributes corresponding to CelebA.
