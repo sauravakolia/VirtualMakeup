@@ -1,6 +1,7 @@
 # Virtual Makeup
 
 This Project enhances the facial properties of Image such as change the hair color, apply different shades of lipsticks.
+<div class="table">
  <div class="row">    
     <div class="col">
       <img src="https://github.com/sauravakolia/VirtualMakeup/blob/main/orig.png" style="width:50%">
@@ -9,6 +10,7 @@ This Project enhances the facial properties of Image such as change the hair col
       <img src="https://github.com/sauravakolia/VirtualMakeup/blob/main/hair.png" style="width:50%">
     </div> 
   </div>
+ </div>
 
 # Motivation
 The project automate the process of makeup thus, saves the time and extra expenses on the trial of different makeup products. This project can be quite useful in the present situation of lockdown.
