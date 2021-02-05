@@ -4,10 +4,10 @@ This Project enhances the facial properties of Image such as change the hair col
 <div>
  <div class="row">    
     <div class="column">
-      <img src="https://github.com/sauravakolia/VirtualMakeup/blob/main/orig.png">
+      <img src="https://github.com/sauravakolia/VirtualMakeup/blob/main/orig.png" style="width:50%">
     </div>  
     <div class="column">
-      <img src="https://github.com/sauravakolia/VirtualMakeup/blob/main/hair.png">
+      <img src="https://github.com/sauravakolia/VirtualMakeup/blob/main/hair.png" style="width:50%">
     </div> 
   </div>
  </div>
