@@ -15,3 +15,6 @@ The Bisenet architecture proved to be  a right balance between the speed and seg
 <a href="https://github.com/switchablenorms/CelebAMask-HQ">CelebAMask-HQ</a> dataset is used for this project.</br>
 </br>
 CelebAMask-HQ is a large-scale face image dataset that has 30,000 high-resolution face images selected from the CelebA dataset by following CelebA-HQ. Each image has segmentation mask of facial attributes corresponding to CelebA.
+
+# Future Work
+Implementation of project on the app.
