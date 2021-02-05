@@ -3,8 +3,8 @@
 This Project enhances the facial properties of Image such as change the hair color, apply different shades of lipsticks.
 
  <p float="left">
- <img src="https://github.com/sauravakolia/VirtualMakeup/blob/main/orig.png" width="100">
- <img src="https://github.com/sauravakolia/VirtualMakeup/blob/main/hair.png" width="100" >
+ <img src="https://github.com/sauravakolia/VirtualMakeup/blob/main/orig.png" width="50%">
+ <img src="https://github.com/sauravakolia/VirtualMakeup/blob/main/hair.png" width="50%" >
  </p>
 
 # Motivation
