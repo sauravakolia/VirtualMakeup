@@ -8,4 +8,4 @@ The project automate the process of makeup thus, saves the time and extra expens
 # Methodology
 For this project facial segmentation is done using Bisenet (Bilateral Segmentation Network for Real-time Semantic Segmentation). The Bisenet architecture proved to be  a right balance between the speed and segmentation performance as compared to other Segmentation architectures.
 
-
+<img src="https://github.com/sauravakolia/VirtualMakeup/blob/main/bisenet.png">
